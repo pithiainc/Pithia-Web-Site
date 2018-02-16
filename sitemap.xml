@@ -2,335 +2,236 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pithia.com/index.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011213x128.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011213x128_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light1213x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light1213x276_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011150x122.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011150x122_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light1150x262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light1150x262_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011000x106.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011000x106_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201815x86.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201815x86_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/team.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2022160x168.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
+      <image:loc>http://pithia.com/images/ed%20eykholt320x320.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/ed%20eykholt_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
+      <image:loc>http://pithia.com/images/rolland%20waters320x320.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/rolland%20waters_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)320x320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)320x320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2012160x228.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2021200x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small)178x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters178x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters178x178_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)178x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)178x178_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt178x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt178x178_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)178x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small)178x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011200x127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%202910x71.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small)135x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters135x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters135x135_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)135x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)135x135_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt135x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt135x135_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)135x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small)135x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201910x97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%202762x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small)113x113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters113x113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters113x113_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)113x113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)113x113_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt113x113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt113x113_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)113x113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small)113x113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201762x81.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pithia.com/purpose-and-principles.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%202797x62.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201797x85.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pithia.com/what-we-do.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/how-we-invest.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/careers.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/portfolio.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/working-groups.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://pithia.com/advisors.html</loc>
-    <lastmod>2018-02-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/funds.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/about-us.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/chains,%20vertical%20(medium).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)283x423.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)280x418.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)233x349.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)212x317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)178x266.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pithia.com/blockchain-realism.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2011150x122.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%2021150x90.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%202815x64.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/chains,%20thin%20crop%201815x87.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20light-crop-u246_2x.jpg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://pithia.com/identity.html</loc>
+    <lastmod>2018-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
