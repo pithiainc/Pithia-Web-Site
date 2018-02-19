@@ -1,100 +1,63 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pithia.com" resolutions="1x,2x" timestamp="1518756256886">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pithia.com" resolutions="1x,2x" timestamp="1519017849097">
   <folder name="css">
-    <file name="site_global.css" crc="28700749"/>
-    <file name="how-we-invest.css" crc="3988715675" ref="how-we-invest"/>
-    <file name="nomq_how-we-invest.css" crc="247303906" ref="how-we-invest"/>
-    <file name="team.css" crc="4003727237" ref="team"/>
-    <file name="nomq_team.css" crc="3830384960" ref="team"/>
-    <file name="working-groups.css" crc="4124525471" ref="working-groups"/>
-    <file name="nomq_working-groups.css" crc="218109252" ref="working-groups"/>
-    <file name="blockchain-realism.css" crc="456308082" ref="blockchain-realism"/>
-    <file name="nomq_blockchain-realism.css" crc="4069462016" ref="blockchain-realism"/>
-    <file name="what-we-do.css" crc="239449100" ref="what-we-do"/>
-    <file name="nomq_what-we-do.css" crc="357092919" ref="what-we-do"/>
-    <file name="purpose-and-principles.css" crc="506851310" ref="purpose-and-principles"/>
-    <file name="nomq_purpose-and-principles.css" crc="193670376" ref="purpose-and-principles"/>
-    <file name="funds.css" crc="336346317" ref="funds"/>
-    <file name="nomq_funds.css" crc="105382110" ref="funds"/>
-    <file name="index.css" crc="80861955" ref="index"/>
-    <file name="nomq_index.css" crc="4210491832" ref="index"/>
-    <file name="about-us.css" crc="219853273" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="145580958" ref="about-us"/>
-    <file name="careers.css" crc="443897733" ref="careers"/>
-    <file name="nomq_careers.css" crc="3892823958" ref="careers"/>
-    <file name="portfolio.css" crc="492955248" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="3981395255" ref="portfolio"/>
-    <file name="master_first-master.css" crc="80529691" ref="about-us:identity:purpose-and-principles:funds:portfolio:what-we-do:team:working-groups:how-we-invest:blockchain-realism:index:careers"/>
-    <file name="nomq_preview_master_first-master.css" crc="4160017903" ref="about-us:identity:purpose-and-principles:funds:portfolio:what-we-do:team:working-groups:how-we-invest:blockchain-realism:index:careers"/>
-    <file name="identity.css" crc="225640744" ref="identity"/>
-    <file name="nomq_identity.css" crc="234533888" ref="identity"/>
+    <file name="site_global.css" crc="351075781"/>
+    <file name="how-we-invest.css" crc="478610048" ref="how-we-invest"/>
+    <file name="nomq_how-we-invest.css" crc="3824321809" ref="how-we-invest"/>
+    <file name="team.css" crc="361594987" ref="team"/>
+    <file name="nomq_team.css" crc="485296189" ref="team"/>
+    <file name="working-groups.css" crc="146820703" ref="working-groups"/>
+    <file name="nomq_working-groups.css" crc="139055850" ref="working-groups"/>
+    <file name="blockchain-realism.css" crc="503001651" ref="blockchain-realism"/>
+    <file name="nomq_blockchain-realism.css" crc="518616777" ref="blockchain-realism"/>
+    <file name="what-we-do.css" crc="4262624864" ref="what-we-do"/>
+    <file name="nomq_what-we-do.css" crc="4265020886" ref="what-we-do"/>
+    <file name="purpose-and-principles.css" crc="3760720145" ref="purpose-and-principles"/>
+    <file name="nomq_purpose-and-principles.css" crc="84412333" ref="purpose-and-principles"/>
+    <file name="funds.css" crc="4051155172" ref="funds"/>
+    <file name="nomq_funds.css" crc="15185546" ref="funds"/>
+    <file name="index.css" crc="3788761159" ref="index"/>
+    <file name="nomq_index.css" crc="198702415" ref="index"/>
+    <file name="about-us.css" crc="373282612" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="117031991" ref="about-us"/>
+    <file name="careers.css" crc="4000163174" ref="careers"/>
+    <file name="nomq_careers.css" crc="310384782" ref="careers"/>
+    <file name="portfolio.css" crc="4175322599" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="429468115" ref="portfolio"/>
+    <file name="identity.css" crc="3874670697" ref="identity"/>
+    <file name="nomq_identity.css" crc="3805533583" ref="identity"/>
+    <file name="master_new-master.css" crc="4180291708" ref="funds:blockchain-realism:working-groups:portfolio:partners:careers:identity:team:how-we-invest:purpose-and-principles:what-we-do:about-us:index"/>
+    <file name="nomq_preview_master_new-master.css" crc="3824530138" ref="funds:blockchain-realism:working-groups:portfolio:partners:careers:identity:team:how-we-invest:purpose-and-principles:what-we-do:about-us:index"/>
+    <file name="partners.css" crc="4253524494" ref="partners"/>
+    <file name="nomq_partners.css" crc="270363533" ref="partners"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="museutils.js" crc="3803043152" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="whatinput.js" crc="86476730" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="require.js" crc="4157109226" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="museutils.js" crc="3803043152" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="whatinput.js" crc="86476730" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="require.js" crc="4157109226" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity"/>
-    <file name="chains, thin crop 11150x122.jpg" crc="134422422" seo="true" ref="blockchain-realism">
-      <caption webpage="index" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-    </file>
-    <file name="u2132-41.png" crc="24180204" ref="purpose-and-principles"/>
-    <file name="u2132-41_2x.png" crc="4182665738" ref="purpose-and-principles"/>
-    <file name="u2132-412.png" crc="343714932" ref="purpose-and-principles"/>
-    <file name="u2132-41_2x2.png" crc="532164382" ref="purpose-and-principles"/>
-    <file name="u2132-413.png" crc="449855702" ref="purpose-and-principles"/>
-    <file name="u2132-41_2x3.png" crc="169661386" ref="purpose-and-principles"/>
-    <file name="u2350-24.png" crc="419071961" ref="what-we-do"/>
-    <file name="u2350-24_2x.png" crc="61645723" ref="what-we-do"/>
-    <file name="u2350-242.png" crc="25425535" ref="what-we-do"/>
-    <file name="u2350-24_2x2.png" crc="354732389" ref="what-we-do"/>
-    <file name="u2350-243.png" crc="412237635" ref="what-we-do"/>
-    <file name="u2350-24_2x3.png" crc="4294736238" ref="what-we-do"/>
+    <file name="blank.gif" crc="4208392903" ref="index:team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners"/>
+    <file name="u2132-41.png" crc="3812242590" ref="purpose-and-principles"/>
+    <file name="u2132-41_2x.png" crc="4292865804" ref="purpose-and-principles"/>
+    <file name="u2132-412.png" crc="3924995972" ref="purpose-and-principles"/>
+    <file name="u2132-41_2x2.png" crc="3823775562" ref="purpose-and-principles"/>
     <file name="chains, vertical (medium).jpg" crc="3864843256" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="u5126-17.png" crc="4070058417" ref="blockchain-realism"/>
-    <file name="u5126-17_2x.png" crc="394972446" ref="blockchain-realism"/>
-    <file name="u5125-17.png" crc="4110896486" ref="blockchain-realism"/>
-    <file name="u5125-17_2x.png" crc="4093314677" ref="blockchain-realism"/>
-    <file name="u5124-22.png" crc="192044132" ref="blockchain-realism"/>
-    <file name="u5124-22_2x.png" crc="466985817" ref="blockchain-realism"/>
-    <file name="u5126-172.png" crc="4070058417" ref="blockchain-realism"/>
-    <file name="u5126-17_2x2.png" crc="394972446" ref="blockchain-realism"/>
-    <file name="u5125-172.png" crc="4110896486" ref="blockchain-realism"/>
-    <file name="u5125-17_2x2.png" crc="4093314677" ref="blockchain-realism"/>
-    <file name="u5124-222.png" crc="192044132" ref="blockchain-realism"/>
-    <file name="u5124-22_2x2.png" crc="466985817" ref="blockchain-realism"/>
+    <file name="u5126-17.png" crc="3775969166" ref="blockchain-realism"/>
+    <file name="u5126-17_2x.png" crc="4186273697" ref="blockchain-realism"/>
+    <file name="u5126-172.png" crc="3775969166" ref="blockchain-realism"/>
+    <file name="u5126-17_2x2.png" crc="4186273697" ref="blockchain-realism"/>
     <file name="u5126-173.png" crc="3775969166" ref="blockchain-realism"/>
     <file name="u5126-17_2x3.png" crc="4186273697" ref="blockchain-realism"/>
-    <file name="u5125-173.png" crc="165079550" ref="blockchain-realism"/>
-    <file name="u5125-17_2x3.png" crc="3972316131" ref="blockchain-realism"/>
-    <file name="u5124-223.png" crc="192044132" ref="blockchain-realism"/>
-    <file name="u5124-22_2x3.png" crc="466985817" ref="blockchain-realism"/>
     <file name="u5126-174.png" crc="3775969166" ref="blockchain-realism"/>
     <file name="u5126-17_2x4.png" crc="4186273697" ref="blockchain-realism"/>
-    <file name="u5125-174.png" crc="165079550" ref="blockchain-realism"/>
-    <file name="u5125-17_2x4.png" crc="3972316131" ref="blockchain-realism"/>
-    <file name="u5124-224.png" crc="192044132" ref="blockchain-realism"/>
-    <file name="u5124-22_2x4.png" crc="466985817" ref="blockchain-realism"/>
-    <file name="u5126-175.png" crc="3775969166" ref="blockchain-realism"/>
-    <file name="u5126-17_2x5.png" crc="4186273697" ref="blockchain-realism"/>
-    <file name="u5125-175.png" crc="4110896486" ref="blockchain-realism"/>
-    <file name="u5125-17_2x5.png" crc="4093314677" ref="blockchain-realism"/>
-    <file name="u5124-225.png" crc="192044132" ref="blockchain-realism"/>
-    <file name="u5124-22_2x5.png" crc="466985817" ref="blockchain-realism"/>
-    <file name="chains, thin crop 22160x168.jpg" crc="3910887984" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="u10045-4.png" crc="4089904827" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index"/>
-    <file name="u10045-4_2x.png" crc="4164804022" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index"/>
     <file name="lawrence lerner (small).jpg" crc="3892935884" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
@@ -120,14 +83,6 @@
       <caption webpage="team" alt=""/>
     </file>
     <file name="greg meredith (small).jpg" crc="346255731" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="chains, thin crop 12160x228.jpg" crc="330097755" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="u9791-4.png" crc="4089904827" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index"/>
-    <file name="u9791-4_2x.png" crc="4164804022" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index"/>
-    <file name="chains, thin crop 21200x94.jpg" crc="183348300" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
     <file name="lawrence lerner (small)178x178.jpg" crc="279050476" seo="true" ref="team">
@@ -157,12 +112,6 @@
     <file name="greg meredith (small)178x178.jpg" crc="4252167555" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
-    <file name="chains, thin crop 11200x127.jpg" crc="4062889262" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="chains, thin crop 2910x71.jpg" crc="3759868970" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
     <file name="lawrence lerner (small)135x135.jpg" crc="3772896972" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
@@ -188,12 +137,6 @@
       <caption webpage="team" alt=""/>
     </file>
     <file name="greg meredith (small)135x135.jpg" crc="481866761" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="chains, thin crop 1910x97.jpg" crc="3993261710" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="chains, thin crop 2762x60.jpg" crc="3782068488" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
     <file name="lawrence lerner (small)113x113.jpg" crc="4220264798" seo="true" ref="team">
@@ -223,21 +166,6 @@
     <file name="greg meredith (small)113x113.jpg" crc="4164792960" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
-    <file name="chains, thin crop 1762x81.jpg" crc="18417972" seo="true" ref="team">
-      <caption webpage="team" alt=""/>
-    </file>
-    <file name="chains, thin crop 2797x62.jpg" crc="209798603" seo="true" ref="purpose-and-principles">
-      <caption webpage="purpose-and-principles" alt=""/>
-    </file>
-    <file name="u2132-414.png" crc="3812242590" ref="purpose-and-principles"/>
-    <file name="u2132-41_2x4.png" crc="4292865804" ref="purpose-and-principles"/>
-    <file name="chains, thin crop 1797x85.jpg" crc="4186595166" seo="true" ref="purpose-and-principles">
-      <caption webpage="purpose-and-principles" alt=""/>
-    </file>
-    <file name="u2132-415.png" crc="3924995972" ref="purpose-and-principles"/>
-    <file name="u2132-41_2x5.png" crc="3823775562" ref="purpose-and-principles"/>
-    <file name="u2350-244.png" crc="4161026265" ref="what-we-do"/>
-    <file name="u2350-24_2x4.png" crc="3820314677" ref="what-we-do"/>
     <file name="chains, vertical (medium)280x418.jpg" crc="4283054032" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
@@ -247,21 +175,6 @@
     <file name="chains, vertical (medium)178x266.jpg" crc="388872932" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="chains, thin crop 21150x90.jpg" crc="50088919" seo="true" ref="blockchain-realism">
-      <caption webpage="blockchain-realism" alt=""/>
-    </file>
-    <file name="chains, thin crop 2815x64.jpg" crc="3776479825" seo="true" ref="blockchain-realism">
-      <caption webpage="blockchain-realism" alt=""/>
-    </file>
-    <file name="chains, thin crop 1815x87.jpg" crc="3978045498" seo="true" ref="blockchain-realism">
-      <caption webpage="blockchain-realism" alt=""/>
-    </file>
-    <file name="u5126-176.png" crc="3775969166" ref="blockchain-realism"/>
-    <file name="u5126-17_2x6.png" crc="4186273697" ref="blockchain-realism"/>
-    <file name="u5125-176.png" crc="4110896486" ref="blockchain-realism"/>
-    <file name="u5125-17_2x6.png" crc="4093314677" ref="blockchain-realism"/>
-    <file name="u5124-226.png" crc="192044132" ref="blockchain-realism"/>
-    <file name="u5124-22_2x6.png" crc="466985817" ref="blockchain-realism"/>
     <file name="u14539-8.png" crc="4070298702" ref="index"/>
     <file name="u14539-8_2x.png" crc="4125058194" ref="index"/>
     <file name="u14539-82.png" crc="4070298702" ref="index"/>
@@ -274,17 +187,318 @@
     <file name="u14541-14_2x2.png" crc="65047269" ref="index"/>
     <file name="u14539-84.png" crc="4077569198" ref="index"/>
     <file name="u14539-8_2x4.png" crc="3791355491" ref="index"/>
+    <file name="background-crop-u25723.jpg" crc="3975693983" seo="true" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index:partners">
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="background349x86.jpg" crc="379306064" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background_2x.jpg" crc="4287052477" seo="true" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index:partners">
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="background-crop-u25745.jpg" crc="387552175" seo="true" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index:partners">
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="funds" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="background194x48.jpg" crc="4030848747" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background194x48_2x.jpg" crc="70711665" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background147x37.jpg" crc="4012213232" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background147x37_2x.jpg" crc="4113730087" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background123x31.jpg" crc="446121404" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background123x31_2x.jpg" crc="324912616" seo="true" ref="team:partners">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background129x32.jpg" crc="3883045358" seo="true" ref="purpose-and-principles">
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+    </file>
+    <file name="background129x32_2x.jpg" crc="275943616" seo="true" ref="purpose-and-principles">
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+    </file>
+    <file name="background186x46.jpg" crc="4036293990" seo="true" ref="blockchain-realism">
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+    </file>
+    <file name="background186x46_2x.jpg" crc="3967813437" seo="true" ref="blockchain-realism">
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+    </file>
+    <file name="u5125-13.png" crc="274808615" ref="blockchain-realism"/>
+    <file name="u5125-13_2x.png" crc="3836227990" ref="blockchain-realism"/>
+    <file name="u5124-21.png" crc="76444492" ref="blockchain-realism"/>
+    <file name="u5124-21_2x.png" crc="156881370" ref="blockchain-realism"/>
+    <file name="u5125-132.png" crc="274808615" ref="blockchain-realism"/>
+    <file name="u5125-13_2x2.png" crc="3836227990" ref="blockchain-realism"/>
+    <file name="u5124-212.png" crc="76444492" ref="blockchain-realism"/>
+    <file name="u5124-21_2x2.png" crc="156881370" ref="blockchain-realism"/>
+    <file name="background132x33.jpg" crc="375354843" seo="true" ref="blockchain-realism">
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+    </file>
+    <file name="background132x33_2x.jpg" crc="4003518077" seo="true" ref="blockchain-realism">
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+    </file>
+    <file name="u5125-133.png" crc="40264221" ref="blockchain-realism"/>
+    <file name="u5125-13_2x3.png" crc="308205501" ref="blockchain-realism"/>
+    <file name="u5124-213.png" crc="76444492" ref="blockchain-realism"/>
+    <file name="u5124-21_2x3.png" crc="156881370" ref="blockchain-realism"/>
+    <file name="u5125-134.png" crc="40264221" ref="blockchain-realism"/>
+    <file name="u5125-13_2x4.png" crc="308205501" ref="blockchain-realism"/>
+    <file name="u5124-214.png" crc="76444492" ref="blockchain-realism"/>
+    <file name="u5124-21_2x4.png" crc="156881370" ref="blockchain-realism"/>
+    <file name="layer 0.png" crc="130218802" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 02.png" crc="67845542" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background.jpg" crc="85497198" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background_2x2.jpg" crc="210203758" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1.png" crc="4253612606" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1_2x.png" crc="182689047" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 0207x46.png" crc="4199174022" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 0170x51.png" crc="215897284" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background224x235.jpg" crc="4129714909" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background224x235_2x.jpg" crc="98344990" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1288x83.png" crc="163762830" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1288x83_2x.png" crc="285732296" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 0157x35.png" crc="27273353" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 0129x39.png" crc="4049577576" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background170x179.jpg" crc="423655469" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background170x179_2x.jpg" crc="4212601249" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1219x63.png" crc="423202226" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1219x63_2x.png" crc="4193221939" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 0131x30.png" crc="4144758471" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 0108x33.png" crc="436212689" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background143x150.jpg" crc="4124736465" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="background143x150_2x.jpg" crc="484158556" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1183x53.png" crc="3974169666" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="layer 1183x53_2x.png" crc="142621167" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4288664485" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="team.html" crc="4219643615" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="purpose-and-principles.html" crc="4229660652" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="what-we-do.html" crc="3801042780" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="how-we-invest.html" crc="3776223884" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="careers.html" crc="4039369412" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="portfolio.html" crc="3826374750" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="working-groups.html" crc="4246773448" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="funds.html" crc="474899488" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="about-us.html" crc="325692016" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="blockchain-realism.html" crc="4097227608" seo="true" mt="1518756172610" redirect="true"/>
-  <file name="identity.html" crc="4006823202" seo="true" mt="1518756172610" redirect="true"/>
+  <file name="index.html" crc="226266711" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="team.html" crc="4093663474" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="purpose-and-principles.html" crc="193626276" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="what-we-do.html" crc="505409889" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="how-we-invest.html" crc="13511510" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="careers.html" crc="3952135627" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="portfolio.html" crc="4195180955" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="working-groups.html" crc="48116120" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="funds.html" crc="275382648" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="about-us.html" crc="82246266" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="blockchain-realism.html" crc="3833250975" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="identity.html" crc="11347217" seo="true" mt="1519017440918" redirect="true"/>
+  <file name="partners.html" crc="3960903270" seo="true" mt="1519017818890" redirect="true"/>
 </manifest>
