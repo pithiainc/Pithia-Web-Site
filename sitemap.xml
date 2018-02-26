@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pithia.com/index.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,10 +14,16 @@
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u32033.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background89x22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background89x22_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/team.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -161,7 +167,7 @@
   </url>
   <url>
     <loc>http://pithia.com/purpose-and-principles.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -182,7 +188,7 @@
   </url>
   <url>
     <loc>http://pithia.com/what-we-do.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -197,7 +203,7 @@
   </url>
   <url>
     <loc>http://pithia.com/how-we-invest.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -212,7 +218,7 @@
   </url>
   <url>
     <loc>http://pithia.com/careers.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -227,7 +233,7 @@
   </url>
   <url>
     <loc>http://pithia.com/portfolio.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -242,7 +248,7 @@
   </url>
   <url>
     <loc>http://pithia.com/working-groups.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -257,7 +263,7 @@
   </url>
   <url>
     <loc>http://pithia.com/funds.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -272,7 +278,7 @@
   </url>
   <url>
     <loc>http://pithia.com/about-us.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -299,7 +305,7 @@
   </url>
   <url>
     <loc>http://pithia.com/blockchain-realism.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -326,7 +332,7 @@
   </url>
   <url>
     <loc>http://pithia.com/identity.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
