@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pithia.com/index.html</loc>
-    <lastmod>2018-02-28</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://pithia.com/images/background-crop-u25723.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/background_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/background-crop-u31377.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/background-crop-u32033.jpg</image:loc>
+      <image:loc>http://pithia.com/images/background-crop-u25745.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/background124x31.jpg</image:loc>
@@ -21,15 +21,15 @@
       <image:loc>http://pithia.com/images/background124x31_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/background76x19.jpg</image:loc>
+      <image:loc>http://pithia.com/images/background55x14.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/background76x19_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/background55x14_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pithia.com/team.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -165,15 +165,48 @@
       <image:loc>http://pithia.com/images/background147x37_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/background123x31.jpg</image:loc>
+      <image:loc>http://pithia.com/images/background106x27.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pithia.com/images/background123x31_2x.jpg</image:loc>
+      <image:loc>http://pithia.com/images/background106x27_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background61x15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background61x15_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small)77x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt77x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt77x77_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters77x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters77x77_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)77x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)77x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)77x77_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small)77x77.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pithia.com/purpose-and-principles.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,7 +227,7 @@
   </url>
   <url>
     <loc>http://pithia.com/what-we-do.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -209,7 +242,7 @@
   </url>
   <url>
     <loc>http://pithia.com/how-we-invest.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -224,7 +257,7 @@
   </url>
   <url>
     <loc>http://pithia.com/careers.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -239,7 +272,7 @@
   </url>
   <url>
     <loc>http://pithia.com/portfolio.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -254,7 +287,7 @@
   </url>
   <url>
     <loc>http://pithia.com/working-groups.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -266,10 +299,16 @@
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u25745.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background57x14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background57x14_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/funds.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -284,21 +323,9 @@
   </url>
   <url>
     <loc>http://pithia.com/about-us.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)280x418.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)212x317.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/chains,%20vertical%20(medium)178x266.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u25723.jpg</image:loc>
     </image:image>
@@ -307,11 +334,23 @@
     </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u25745.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background100x25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background100x25_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background49x12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background49x12_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pithia.com/blockchain-realism.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -323,22 +362,10 @@
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u25745.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/background186x46.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/background186x46_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/background132x33.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pithia.com/images/background132x33_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/identity.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -353,7 +380,7 @@
   </url>
   <url>
     <loc>http://pithia.com/partners.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -436,6 +463,72 @@
     </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/layer%201183x53_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%200122x27.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%200101x30.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background132x139.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background132x139_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%201170x49.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%201170x49_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%20070x16.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%20058x18.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background76x80.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background76x80_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%20198x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%20198x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background99x25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background99x25_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%20090x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%20074x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background97x102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background97x102_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%201125x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/layer%201125x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background48x12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background48x12_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
