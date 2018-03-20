@@ -203,6 +203,72 @@
     <image:image>
       <image:loc>http://pithia.com/images/greg%20meredith%20(small)77x77.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background84x21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background84x21_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small)89x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters89x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters89x89_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)89x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)89x89_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt89x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt89x89_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)89x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small)89x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background37x10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background37x10_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lawrence%20lerner%20(small)48x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters48x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/rolland%20waters48x48_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)48x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/navneet%20suman%20(medium)48x48_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt48x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/ed%20eykholt48x48_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/lisa%20rice%20(small)48x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/greg%20meredith%20(small)48x48.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://pithia.com/purpose-and-principles.html</loc>
