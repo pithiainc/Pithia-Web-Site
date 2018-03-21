@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pithia.com/index.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -431,17 +431,44 @@
   </url>
   <url>
     <loc>http://pithia.com/identity.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u25723.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://pithia.com/images/background349x86.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://pithia.com/images/background_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pithia.com/images/background-crop-u25745.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background194x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background194x48_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background147x37.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background147x37_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background106x27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background106x27_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background61x15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pithia.com/images/background61x15_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
