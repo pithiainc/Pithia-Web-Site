@@ -1,33 +1,33 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pithia.com" resolutions="1x,2x" timestamp="1521602569512">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pithia.com" resolutions="1x,2x" timestamp="1521602938941">
   <folder name="css">
     <file name="site_global.css" crc="3919794003"/>
-    <file name="how-we-invest.css" crc="205998936" ref="how-we-invest"/>
-    <file name="nomq_how-we-invest.css" crc="7170772" ref="how-we-invest"/>
-    <file name="team.css" crc="503173822" ref="team"/>
-    <file name="nomq_team.css" crc="523660392" ref="team"/>
-    <file name="working-groups.css" crc="516193997" ref="working-groups"/>
-    <file name="nomq_working-groups.css" crc="4241573285" ref="working-groups"/>
-    <file name="blockchain-realism.css" crc="3823717230" ref="blockchain-realism"/>
-    <file name="nomq_blockchain-realism.css" crc="252131166" ref="blockchain-realism"/>
-    <file name="what-we-do.css" crc="197857876" ref="what-we-do"/>
-    <file name="nomq_what-we-do.css" crc="355241299" ref="what-we-do"/>
-    <file name="purpose-and-principles.css" crc="63922997" ref="purpose-and-principles"/>
-    <file name="nomq_purpose-and-principles.css" crc="4283989738" ref="purpose-and-principles"/>
-    <file name="funds.css" crc="4273741388" ref="funds"/>
-    <file name="nomq_funds.css" crc="3837281751" ref="funds"/>
-    <file name="index.css" crc="350512335" ref="index"/>
-    <file name="nomq_index.css" crc="3963470192" ref="index"/>
-    <file name="about-us.css" crc="148879592" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="4222157828" ref="about-us"/>
-    <file name="careers.css" crc="519328468" ref="careers"/>
-    <file name="nomq_careers.css" crc="389067446" ref="careers"/>
-    <file name="portfolio.css" crc="485024584" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4135591654" ref="portfolio"/>
-    <file name="identity.css" crc="4106121483" ref="identity"/>
-    <file name="nomq_identity.css" crc="509038832" ref="identity"/>
-    <file name="partners.css" crc="4245055842" ref="partners"/>
-    <file name="nomq_partners.css" crc="329918296" ref="partners"/>
-    <file name="master_full-master.css" crc="3789856795" ref="about-us:funds:partners:working-groups:purpose-and-principles:team:identity:careers:portfolio:how-we-invest:blockchain-realism:what-we-do:index"/>
+    <file name="how-we-invest.css" crc="3772396367" ref="how-we-invest"/>
+    <file name="nomq_how-we-invest.css" crc="3979581345" ref="how-we-invest"/>
+    <file name="team.css" crc="324912350" ref="team"/>
+    <file name="nomq_team.css" crc="3891776442" ref="team"/>
+    <file name="working-groups.css" crc="510858423" ref="working-groups"/>
+    <file name="nomq_working-groups.css" crc="286930796" ref="working-groups"/>
+    <file name="blockchain-realism.css" crc="418575999" ref="blockchain-realism"/>
+    <file name="nomq_blockchain-realism.css" crc="4141408661" ref="blockchain-realism"/>
+    <file name="what-we-do.css" crc="296123816" ref="what-we-do"/>
+    <file name="nomq_what-we-do.css" crc="3878353260" ref="what-we-do"/>
+    <file name="purpose-and-principles.css" crc="3934330997" ref="purpose-and-principles"/>
+    <file name="nomq_purpose-and-principles.css" crc="397673385" ref="purpose-and-principles"/>
+    <file name="funds.css" crc="129749718" ref="funds"/>
+    <file name="nomq_funds.css" crc="253949944" ref="funds"/>
+    <file name="index.css" crc="320462936" ref="index"/>
+    <file name="nomq_index.css" crc="367138747" ref="index"/>
+    <file name="about-us.css" crc="4029366294" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="118058437" ref="about-us"/>
+    <file name="careers.css" crc="3824453091" ref="careers"/>
+    <file name="nomq_careers.css" crc="4086223445" ref="careers"/>
+    <file name="portfolio.css" crc="4238790509" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="387327349" ref="portfolio"/>
+    <file name="identity.css" crc="4058112062" ref="identity"/>
+    <file name="nomq_identity.css" crc="4290866019" ref="identity"/>
+    <file name="partners.css" crc="3826059905" ref="partners"/>
+    <file name="nomq_partners.css" crc="3874787392" ref="partners"/>
+    <file name="master_full-master.css" crc="4090604118" ref="about-us:funds:partners:working-groups:purpose-and-principles:team:identity:careers:portfolio:how-we-invest:blockchain-realism:what-we-do:index"/>
     <file name="nomq_preview_master_full-master.css" crc="496812500" ref="about-us:funds:partners:working-groups:purpose-and-principles:team:identity:careers:portfolio:how-we-invest:blockchain-realism:what-we-do:index"/>
   </folder>
   <folder name="scripts">
@@ -152,230 +152,230 @@
       <caption webpage="team" alt=""/>
     </file>
     <file name="background-crop-u25723.jpg" crc="3975693983" seo="true" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners:index">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
     </file>
-    <file name="background349x86.jpg" crc="379306064" seo="true" ref="team:identity">
+    <file name="background349x86.jpg" crc="379306064" seo="true" ref="team">
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
     <file name="background_2x.jpg" crc="4287052477" seo="true" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:index:partners">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
     </file>
     <file name="background-crop-u25745.jpg" crc="387552175" seo="true" ref="team:purpose-and-principles:what-we-do:how-we-invest:careers:portfolio:working-groups:funds:about-us:blockchain-realism:identity:partners:index">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="identity" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="blockchain-realism" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
       <caption webpage="funds" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="purpose-and-principles" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
-      <caption webpage="working-groups" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
+      <caption webpage="blockchain-realism" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="identity" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="purpose-and-principles" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
       <caption webpage="how-we-invest" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="working-groups" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
     </file>
-    <file name="background194x48.jpg" crc="4030848747" seo="true" ref="team:identity">
+    <file name="background194x48.jpg" crc="4030848747" seo="true" ref="team">
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
-    <file name="background194x48_2x.jpg" crc="70711665" seo="true" ref="team:identity">
+    <file name="background194x48_2x.jpg" crc="70711665" seo="true" ref="team">
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
-    <file name="background147x37.jpg" crc="4012213232" seo="true" ref="team:identity">
+    <file name="background147x37.jpg" crc="4012213232" seo="true" ref="team">
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
-    <file name="background147x37_2x.jpg" crc="4113730087" seo="true" ref="team:identity">
+    <file name="background147x37_2x.jpg" crc="4113730087" seo="true" ref="team">
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
     <file name="background129x32.jpg" crc="3883045358" seo="true" ref="purpose-and-principles">
       <caption webpage="purpose-and-principles" alt=""/>
@@ -501,29 +501,29 @@
     <file name="layer 198x28_2x.png" crc="3969009272" seo="true" ref="partners">
       <caption webpage="partners" alt=""/>
     </file>
-    <file name="background106x27.jpg" crc="3922433634" seo="true" ref="team:identity">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
+    <file name="background106x27.jpg" crc="3922433634" seo="true" ref="team">
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
-    <file name="background106x27_2x.jpg" crc="4154106740" seo="true" ref="team:identity">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
+    <file name="background106x27_2x.jpg" crc="4154106740" seo="true" ref="team">
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
-    <file name="background61x15.jpg" crc="4221053945" seo="true" ref="team:identity">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
+    <file name="background61x15.jpg" crc="4221053945" seo="true" ref="team">
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
-    <file name="background61x15_2x.jpg" crc="3845975308" seo="true" ref="team:identity">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
+    <file name="background61x15_2x.jpg" crc="3845975308" seo="true" ref="team">
       <caption webpage="identity" alt=""/>
       <caption webpage="identity" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
     <file name="lawrence lerner (small)77x77.jpg" crc="440871830" seo="true" ref="team">
       <caption webpage="team" alt=""/>
@@ -689,17 +689,17 @@
       <caption webpage="team" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="411038023" seo="true" mt="1521602513602" redirect="true"/>
-  <file name="team.html" crc="3855726590" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="purpose-and-principles.html" crc="3843240397" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="what-we-do.html" crc="3909196287" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="how-we-invest.html" crc="3773250181" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="careers.html" crc="4177844341" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="portfolio.html" crc="4037187484" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="working-groups.html" crc="4140499826" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="funds.html" crc="3895345811" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="about-us.html" crc="4029523117" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="blockchain-realism.html" crc="3920319244" seo="true" mt="1521519902776" redirect="true"/>
-  <file name="identity.html" crc="184425501" seo="true" mt="1521602187141" redirect="true"/>
-  <file name="partners.html" crc="205855154" seo="true" mt="1521519902776" redirect="true"/>
+  <file name="index.html" crc="3949859075" seo="true" mt="1521602926761" redirect="true"/>
+  <file name="team.html" crc="322981164" seo="true" mt="1521602901106" redirect="true"/>
+  <file name="purpose-and-principles.html" crc="4136757727" seo="true" mt="1521602903747" redirect="true"/>
+  <file name="what-we-do.html" crc="310666895" seo="true" mt="1521602903747" redirect="true"/>
+  <file name="how-we-invest.html" crc="463244599" seo="true" mt="1521602903747" redirect="true"/>
+  <file name="careers.html" crc="111345419" seo="true" mt="1521602903747" redirect="true"/>
+  <file name="portfolio.html" crc="4098566403" seo="true" mt="1521602903747" redirect="true"/>
+  <file name="working-groups.html" crc="3923098211" seo="true" mt="1521602914943" redirect="true"/>
+  <file name="funds.html" crc="3946579338" seo="true" mt="1521602914943" redirect="true"/>
+  <file name="about-us.html" crc="3851626272" seo="true" mt="1521602920736" redirect="true"/>
+  <file name="blockchain-realism.html" crc="439547475" seo="true" mt="1521602935136" redirect="true"/>
+  <file name="identity.html" crc="3792690041" seo="true" mt="1521602921467" redirect="true"/>
+  <file name="partners.html" crc="425127089" seo="true" mt="1521602931599" redirect="true"/>
 </manifest>
